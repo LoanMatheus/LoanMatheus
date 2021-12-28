@@ -33,5 +33,5 @@ Oi 👋 , me chamo Loan e moro em Araxá, Minas Gerais, Brasil. Estudo na [Trybe
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=LoanMatheus&show_icons=true&theme=dracula" alt="LoanMatheus" />
 </a>
 <a href="https://github.com/LoanMatheus">
-  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoanMatheus&layout=compact&theme=dracula" alt="LoanMatheus" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoanMatheus&layout=compact&theme=dracula" alt="LoanMatheus" />
 </a>
