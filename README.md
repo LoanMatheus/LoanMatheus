@@ -1,4 +1,4 @@
-Oi 👋 , me chamo Loan e moro em Araxá, Minas Gerais, Brasil. Estudo na [Trybe](https://www.betrybe.com/) desde Novembro de 2021 e atuo como **Desenvolvedor de Websites** na [Agência - Nova Publicidade Marketing Tecnologia](https://www.anovapublicidade.com.br/) 🚀.
+Oi 👋 , me chamo Loan e moro em Araxá, Minas Gerais, Brasil. Estudo na [Trybe](https://www.betrybe.com/) desde Novembro de 2021 e atuo como **Desenvolvedor de Websites** a 3 anos na area Utilizando Javascript com React, NodeJs, Prisma.
 
 - 👩🏽‍💻 Desenvolvedor Junior
 - :joystick: Gosto MUITO de jogos. Principalmente card game e co-op.
