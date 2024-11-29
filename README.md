@@ -1,4 +1,5 @@
-Oi 👋 , me chamo Loan e moro em Araxá, Minas Gerais, Brasil. Estudo na [Trybe](https://www.betrybe.com/) desde Novembro de 2021 e atuo como **Desenvolvedor de Websites** a 3 anos na area Utilizando Javascript com React, NodeJs, Prisma.
+Oi 👋 , me chamo Loan e moro em Araxá, Minas Gerais, Brasil. Estudei na [Trybe](https://www.betrybe.com/) realizando o curso de desenvolvimento Fullstack, e reforcei os estudos com o programa desenvolve da Boticario pela Alura.
+Atuo como **Desenvolvedor de Websites** a 3 anos na area Utilizando Javascript com React, NodeJs, Prisma.
 
 - 👩🏽‍💻 Desenvolvedor Junior
 - :joystick: Gosto MUITO de jogos. Principalmente card game e co-op.
